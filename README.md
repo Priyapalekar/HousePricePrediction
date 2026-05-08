@@ -1,6 +1,7 @@
-live demo 
+#live demo 
+'''
 https://housepriceprediction-rqhagpcsnj48in4appvf8w6.streamlit.app/
-
+'''
 House Price Prediction System
 
 A Machine Learning project that predicts house prices based on:
